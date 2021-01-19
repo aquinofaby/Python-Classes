@@ -1,7 +1,7 @@
 ## Exercicios de Python - Básico :snake: 
 
 ***1B***- Escrever o Programa, inserindo valor de A + B e saída devera ser: "A soma é, X "
-
+  
 ***2B*** - Escrever um programa onde dado numeros de A e B irá imprimir na tela os valores sendo que:  
 _aux = a  
 a = b  
