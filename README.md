@@ -8,8 +8,8 @@
 ***3B*** - Escrever um programa que imprima cumprimentos ao nome de acordo com o input do usuario
 
 ***4B*** - Escreva um programa que receba entrada (digitação de dados pelo usuario) com: o nome do cliente, o dia de vencimento, o mês de vencimento e o valor da fatura, e imprima (saída de dados) a mensagem com os dados recebidos, no mesmo formato da mensagem:
-
 _" Olá, Fulano de Tal,
+
 A sua fatura com vencimento em 9 de Janeiro no valor de R$ 350,00 está fechada"_
 
 ***5B*** - Escreva um programa que ao fazer input de Temperatura Fahrenheit será convertido a Celsius
