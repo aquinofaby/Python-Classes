@@ -25,5 +25,9 @@ _A sua fatura com vencimento em 9 de Janeiro no valor de R$ 350,00 está fechada
 
 ***10B*** - Escrever um programa que extraia a unidade da dezena.(ou seja a unid da dez de 321 é 2)
 
+***11B*** - 
 
+***12B*** -
+
+***13B*** - Escrever um programa que  calcula as raizes de uma equação de segundo grau . Se o Delta for menor que 0 o programa precisa dizer _"Esta equação não possui raizes reais"_ se  o programa é igual a 0 ela vai dizer _"A raiz dessa equação é"_ se o delta for maior que 0  vai dizer _"As raizes da equação são"_.
 
